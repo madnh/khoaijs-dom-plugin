@@ -1,0 +1,29 @@
+{
+  "name": "khoaijs-dom-plugin",
+  "description": "",
+  "main": "dom-plugin.js",
+  "authors": [
+    "MaDnh <dodanhmanh@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/madnh",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "chai": "^3.5.0",
+    "expect.js": "^0.3.1",
+    "khoaijs": "^0.0.1",
+    "lodash": "^4.17.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "khoaijs": "^0.0.1",
+    "khoaijs-app": "^0.0.1",
+    "jquery": "^3.2.1"
+  }
+}
